@@ -8,9 +8,6 @@ const App = () => {
       <Navbar />
       <Hero />
       <Companies/>
-      <Courses />
-      <Achievement />
-      <Categories />
       <Feedback />
       <CTA />
       <Footer />

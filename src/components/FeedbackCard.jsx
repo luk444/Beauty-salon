@@ -9,7 +9,7 @@ const FeedbackCard = () => {
                 <img src={avatar} />
                 <div>
                     <h1>Jenny Wilson</h1>
-                    <p>UI-UX Designer</p>
+                    <p>ClasyClub Membership</p>
                 </div>
             
             </div>
